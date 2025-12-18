@@ -9,3 +9,5 @@ class Employee:
     
 vishu = Employee()
 print(vishu.getDetails())  # Output: Name: unknown, Salary: 0,  
+vishu.getinfo()               # Location: EarthLocation: Earth  
+# Output: Name: unknown, Salary: 0, Location: Earth
